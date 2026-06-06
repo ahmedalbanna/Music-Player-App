@@ -1,0 +1,6 @@
+{
+  "name": "Music Player",
+  "description": "A modern, material 3, Arabic-first offline music player with a background service and full media controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

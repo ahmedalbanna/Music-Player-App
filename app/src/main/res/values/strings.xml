@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="title_all_songs">الأغاني</string>
+    <string name="title_favorites">المفضلة</string>
+    <string name="title_playlists">قوائم التشغيل</string>
+    <string name="search_hint">ابحث عن أغنية أو فنان...</string>
+    <string name="permission_required_desc">يحتاج التطبيق إلى الوصول للملفات الصوتية لعرضها وتشغيلها.</string>
+    <string name="grant_permission">منح الإذن</string>
+    <string name="empty_song_list">لا توجد ملفات صوتية على الجهاز. تتوفر عينات التشغيل أدناه للاستماع الفوري!</string>
+    <string name="now_playing">يعمل الآن</string>
+    <string name="unknown_artist">فنان غير معروف</string>
+    <string name="unknown_track">مسار غير معروف</string>
+    <string name="sample_track_1_title">سمفونية الأمل</string>
+    <string name="sample_track_2_title">لحن الغروب</string>
+    <string name="sample_track_3_title">نبض الطبيعة</string>
+    <string name="sample_track_4_title">صدى الفضاء</string>
+    <string name="sample_artist">معزوفات الموسيقى</string>
+    <string name="track_added_to_favorites">تمت الإضافة للمفضلة</string>
+    <string name="track_removed_from_favorites">تمت الإزالة من المفضلة</string>
+</resources>
